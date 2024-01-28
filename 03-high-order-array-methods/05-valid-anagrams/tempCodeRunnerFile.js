@@ -1,0 +1,1 @@
+arrayWord2.includes(char)

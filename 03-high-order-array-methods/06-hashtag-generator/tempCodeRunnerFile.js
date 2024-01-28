@@ -1,0 +1,1 @@
+wordArray[0] = '#' + wordArray[0];
